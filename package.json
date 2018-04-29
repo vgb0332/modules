@@ -1,0 +1,22 @@
+{
+  "name": "mouduling",
+  "version": "1.0.0",
+  "description": "various moudles will be added",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vgb0332/modules.git"
+  },
+  "author": "mjung, gunheekim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vgb0332/modules/issues"
+  },
+  "homepage": "https://github.com/vgb0332/modules#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
