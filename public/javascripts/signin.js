@@ -1,3 +1,22 @@
+// IN order to use this function need these following cdn
+
+<!--
+  DAUM KAKAO
+  <script src="//developers.kakao.com/sdk/js/kakao.min.js"></script>
+  <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=a85645def53cba1df9f4bc7ada5bd6dd&libraries=clusterer,services,drawing"></script>
+
+   NAVER
+  <script type="text/javascript" src="https://openapi.map.naver.com/openapi/v3/maps.js?clientId=DX5aYb4n7jxGROt0PIPR&submodules=panorama"></script>
+  <script type="text/javascript" src="https://static.nid.naver.com/js/naveridlogin_js_sdk_2.0.0.js" charset="utf-8"></script>
+
+  GOOGLE
+  <script async defer
+          src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBw5vj4ZnOZUe-EH2A9_Nk9tP0a9-f9PBk">
+  </script>
+  <script src="https://apis.google.com/js/platform.js?onload=loginWithGoogle" async defer></script>
+  -->
+
+
 function loginWithKakao() {
 
   // 로그인 창을 띄웁니다.
